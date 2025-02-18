@@ -24,6 +24,7 @@ O App foi desenvolvido com as seguintes tecnologias:
 - `Coroutines e Flow`: Rodar as operações de forma assíncrona e reativas
 - `Ktor`: Comunicação e requisições a Rest API
 - `Modularização`: O projeto foi dividido em multi-módulos por feature e por camadas de data, domain e presenter seguindo as melhores práticas de Clean Architecture
+- `Coil`: Upload de imagens e gifs
        
 <h1>Acesso ao projeto</h1>
 
