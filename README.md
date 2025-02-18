@@ -27,7 +27,7 @@ O App foi desenvolvido com as seguintes tecnologias:
        
 <h1>Acesso ao projeto</h1>
 
-Você pode acessar o [código fonte do projeto](https://github.com/StevenMTung/pokedex) ou [baixá-lo](https://github.com/StevenMTung/movinlist/archive/refs/heads/main.zip).
+Você pode acessar o [código fonte do projeto](https://github.com/StevenMTung/pokedex) ou [baixá-lo](https://github.com/StevenMTung/pokedex/archive/refs/heads/main.zip).
 
 <h1>Abrir e rodar o projeto</h1> 
 
